@@ -1,4 +1,4 @@
-## Bootstrap 5 Crash Course
+## Bootstrap 5 Tutorial
 
 Bootstrap 5 Crash Course by **Traversy Media**
 
