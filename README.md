@@ -2,7 +2,7 @@
 
 Bootstrap 5 Crash Course by **Traversy Media**
 
-This is a duplicate website of what Brad did in his tutorial. The code is not mine, I just followed along with the video so I could understand the topic more.
+This is a duplicate website of what Brad did in his tutorial. The code is not mine, I just followed along with the video so I could understand bootstrap more.
 
 Some things that I added/changed:
 * Changed the title names throughout the website
