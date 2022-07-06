@@ -1,9 +1,13 @@
-<h2>
-	Bootstrap 5 Tutorial
-</h2>
-<p>
-  Bootstrap 5 Tutorial by <strong>Traversy Media</strong>
+## Bootstrap 5 Crash Course
 
-  Tutorial Link: <https://www.youtube.com/watch?v=4sosXZsdy-s></br>
-  My Live Link: <https://krau-bootcamp.netlify.app/>
-</p>
+Bootstrap 5 Crash Course by **Traversy Media**
+
+This is a duplicate website of what Brad did in his tutorial. The code is not mine, I just followed along with the video so I could understand the topic more.
+
+Some things that I added/changed:
+* Changed the title names throughout the website
+* Changed the images used
+* Added a favicon
+
+Tutorial Link: <https://www.youtube.com/watch?v=4sosXZsdy-s>  
+My Live Link: <https://krau-bootcamp.netlify.app/>
